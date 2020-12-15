@@ -1,1 +1,1 @@
-" ftplugin/sis.vim
+setlocal commentstring="#%s"
